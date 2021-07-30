@@ -1,7 +1,10 @@
 //If you want to use this code, please tell me via email:2261928980@qq.com
+
 //Do not use them for your assignment/homework/practic/exam
+
 //Run the test
-//finished by Jiuhong Du a1762017
+
+//finished by Jiuhong Du 
 
 ## compile：
 
