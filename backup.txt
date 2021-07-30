@@ -1,0 +1,13 @@
+id:tag:fishinhole.com,2008:http://www.fishinhole.com/reports
+updated:Tue Oct 06 11:06:42 CST 2020
+author:NameOfYourBoss
+link:http://www.fishinhole.com/reports
+subtitle:The latest reports from fishinhole.com
+title:Fishing Reports
+entry
+id:tag:fishinhole.com,2008:http://www.fishinhole.com/reports2
+updated:Tue Oct 06 11:06:42 CST 2020
+author:NameOfYourBoss2
+link:http://www.fishinhole.com/reports2
+subtitle:The latest reports from fishinhole.com2
+title:Fishing Reports2

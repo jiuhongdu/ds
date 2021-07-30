@@ -1,0 +1,13 @@
+title:Fishing Reports
+subtitle:The latest reports from fishinhole.com
+link:http://www.fishinhole.com/reports
+updated:2015-07-03T16:19:54-05:00
+author:NameOfYourBoss
+id:tag:fishinhole.com,2008:http://www.fishinhole.com/reports
+entry
+title:Fishing Reports2
+subtitle:The latest reports from fishinhole.com2
+link:http://www.fishinhole.com/reports2
+updated:2015-07-03T16:19:54-05:002
+author:NameOfYourBoss2
+id:tag:fishinhole.com,2008:http://www.fishinhole.com/reports2
